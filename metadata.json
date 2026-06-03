@@ -1,0 +1,11 @@
+{
+  "name": "AuraTools",
+  "description": "A premium, responsive multi-tool SaaS platform featuring powerful Image, PDF, File Converter, and Utility tools with absolute security and fast client-side speeds.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
